@@ -1,0 +1,125 @@
+body{
+    
+}
+h1{
+    text-align: left;
+    position: relative;
+    left: 20px;
+    font-family: 'DM Serif Display', serif;
+}
+
+.container-0{
+    background-color: hsl(30, 38%, 92%);
+    height: 650px;
+    width: 1200px;
+    margin-top: 0px;
+    margin-left: 500px;
+    position: relative;
+    top: 160px;
+    right: 270px;
+    box-shadow: 10px 10px 10px 10px lightgrey;
+    
+
+    
+}
+
+
+.big-container{
+    height: 350px;
+    position: relative;
+    left: 125px;
+    bottom: 550px;
+    box-shadow: black
+}
+
+
+.container{
+    position: relative;
+    left: 400px;
+    top: 140px;
+
+    
+}
+
+.image{
+    height: 500px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.container-2{
+    position: relative;
+    left: 734px;
+    bottom: 364px;
+    font-family: 'Blinker', sans-serif;
+    font-size: medium;
+    background-color: white;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.paragraph{
+    font-size: 14px;
+    font-family: 'Blinker', sans-serif;
+    line-height: 2;
+    text-align: left;
+    position: relative;
+    left: 21px;
+    color: rgb(107, 101, 101);
+    font-weight: lighter;
+}
+
+.para{
+    text-align: left;
+    position: relative;
+    left: 20px;
+    color: rgb(107, 101, 101);
+    font-size: 15px;
+
+}
+
+.cost{
+    color: darkcyan;
+}
+
+.cost-cut{
+    position: relative;
+    left: 15px;
+    bottom: 52px;
+    color: rgb(107, 101, 101);
+    font-family: 'DM Serif Display', serif;
+    font-size: 15px;
+    font-weight: bolder;
+    
+}
+
+.cart{
+    height: 20px;
+    position: relative;
+    right: 13px;
+    top: 2px;
+}
+
+.btn {
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: 'Blinker', sans-serif;
+    color: #ffffff;
+    font-size: 15px;
+    background: darkcyan;
+    padding: 12px 85px 12px 89px;
+    border: solid #1f628d 0px;
+    text-decoration: none;
+    position: relative;
+    bottom: 30px;
+    right: 3px;
+  }
+  
+  .btn:hover {
+    background: #aba9ab;
+    text-decoration: none;
+  }
